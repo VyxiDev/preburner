@@ -1,1 +1,1 @@
-wss://outputs-coupled-deck-shakespeare.trycloudflare.com
+wss://configurations-recipes-kills-talks.trycloudflare.com
